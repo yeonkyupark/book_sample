@@ -5,3 +5,6 @@
 
 /.quarto/
 nul
+/_book/
+/_freeze/
+/site_libs/
