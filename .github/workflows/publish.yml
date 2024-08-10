@@ -20,6 +20,7 @@ jobs:
           packages:
             any::rmarkdown
             any::knitr
+      - uses: r-lib/actions/setup-tinytex@maste
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
