@@ -4,7 +4,7 @@ project:
 
 book:
   title: "book_sample"
-  author: "Norah Jones"
+  author: "YK"
   date: "2024. 8. 10."
   chapters:
     - index.qmd
